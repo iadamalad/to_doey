@@ -114,7 +114,7 @@ class _TodoListScreenState extends State<TodoListScreen> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: <Widget>[
                           Text(
-                            "My Tasks",
+                            "My Task List",
                             style: TextStyle(
                                 color: Colors.black,
                                 fontSize: 40,
